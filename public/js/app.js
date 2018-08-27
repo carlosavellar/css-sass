@@ -1,0 +1,1 @@
+console.log("Scripts files ---d-d-d-difndfk-");
